@@ -1,0 +1,25 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.panda-price{
+    color: #FF136F;
+}
+.panda-category-name{
+    font-size: 2.5rem;
+}
+.panda-category-background-bag{
+    background-color: orchid;
+}
+.panda-category-background-shoes{
+    background-color: blue;
+}
